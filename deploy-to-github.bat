@@ -20,10 +20,10 @@ echo ========================================
 echo.
 echo 1. Ve a GitHub.com y crea un nuevo repositorio llamado "Casse_Landing_Page"
 echo 2. NO inicialices con README, .gitignore o licencia (ya los tenemos)
-echo 3. Copia la URL del repositorio (ejemplo: https://github.com/tuusuario/Casse_Landing_Page.git)
+echo 3. Copia la URL del repositorio (ejemplo: https://github.com/Jonatha32/Casse_Landing_Page)
 echo 4. Ejecuta estos comandos:
 echo.
-echo    git remote add origin [URL_DE_TU_REPOSITORIO]
+echo    git remote add origin https://github.com/Jonatha32/Casse_Landing_Page
 echo    git branch -M main
 echo    git push -u origin main
 echo.
